@@ -34,6 +34,10 @@ Voici la liste des différents fichiers proposés dans COREUTILS-0 :
 			<td><b>CUT.PAS</b></td>
 			<td>Cette commande permet de supprimer des sections de chaque ligne des fichiers.</td>
 		</tr>
+	 	<tr>
+			<td><b>DF.PAS</b></td>
+			<td>Cette commande permet d'afficher l'espace libre sur le système de fichiers. </td>
+	        </tr>
 		<tr>
 			<td><b>HEAD.PAS</b>
 			<td>Cette commande permet d'afficher le début d'un fichier texte. Cette commande est un équivalent de Coreutils.</td>
