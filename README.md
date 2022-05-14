@@ -16,15 +16,15 @@ Voici la liste des différents fichiers proposés dans COREUTILS-0 :
 		</tr>	
 		<tr>
 			<td><b>BASENAME.PAS</b></td>
-			<td>Cette commande permet de retourner le nom du fichier seulement à partir d'un chemin complet de nom de fichier. Cette commande est un équivalent de Coreutils.</td>
+			<td>Cette commande permet de retourner le nom du fichier seulement à partir d'un chemin complet de nom de fichier.</td>
 		</tr>
      <tr>
 			<td><b>CAT.PAS</b></td>
-			<td>Cette commande permet d'afficher le contenu d'un/des fichiers. Cette commande est un équivalent de Coreutils.</td>
+			<td>Cette commande permet d'afficher le contenu d'un/des fichiers.</td>
 		</tr>
 		<tr>
 			<td><b>CHMOD.PAS</b></td>
-			<td>Cette commande permet de changer le mode des fichiers. Cette commande est inspiré de UNIX et Linux.</td>
+			<td>Cette commande permet de changer le mode des fichiers.</td>
 		</tr>
 		<tr>
 			<td><b>CP.PAS</b></td>
@@ -38,6 +38,10 @@ Voici la liste des différents fichiers proposés dans COREUTILS-0 :
 			<td><b>DF.PAS</b></td>
 			<td>Cette commande permet d'afficher l'espace libre sur le système de fichiers. </td>
 	        </tr>
+		<tr>
+			<td><b>DIR.PAS</b></td>
+			<td>Cette commande permet d'afficher les fichiers contenu dans un répertoire.</td>
+		</tr>
 		<tr>
 			<td><b>HEAD.PAS</b>
 			<td>Cette commande permet d'afficher le début d'un fichier texte. Cette commande est un équivalent de Coreutils.</td>
