@@ -1,5 +1,5 @@
 # COREUTILS-0
-Clone en Pascal du Coreutils fonctionnant sous DOS
+Clone en Pascal du Coreutils fonctionnant sous DOS ou Windows.
 
 <h2>Liste des fichiers</h2>
 
