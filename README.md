@@ -50,6 +50,10 @@ Voici la liste des différents fichiers proposés dans COREUTILS-0 :
 			<td><b>LS.PAS</b></td>
 			<td>Cette commande permet d'afficher les fichiers d'un répertoire. Cette commande est équivalent de Coreutils.</td>
 		</tr>
+	<tr>
+			<td><b>NL.PAS</b></td>
+			<td>Cette commande permet d'afficher du texte avec des numéros de ligne. </td>
+		</tr>
   	<tr>
 			<td><b>OD.PAS</b></td>
 			<td>Cette commande permet d'afficher le contenu d'un fichier selon un format spécifique. Cette commande est un équivalent de Coreutils.</td>
