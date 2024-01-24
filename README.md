@@ -90,6 +90,10 @@ Voici la liste des différents fichiers proposés dans COREUTILS-0 :
 			<td><b>WC.PAS</b>
 			<td>Cette commande permet de compter le nombre de mots, de lignes ou de caractères.</td>
 		</tr>
+		<tr>
+			<td><b>YES.PAS</b></td>
+			<td>Cette commande permet d'effectuer des répétitions de réponses affirmatives.</td>
+		</tr>
 	</table>
 
 <h2>Compilation</h2>
