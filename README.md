@@ -62,6 +62,10 @@ Voici la liste des différents fichiers proposés dans COREUTILS-0 :
 			<td><b>PWD.PAS</b></td>
 			<td>Cette commande permet d'afficher le chemin du répertoire courant. Cette commande est un équivalent de Coreutils.</td>
 		</tr>
+			<tr>
+			<td><b>SEQ.PAS</b></td>
+			<td>Cette commande permet de générer des nombres selon l'intervalle et le saut spécifié.</td>
+		</tr>
 		<tr>
 			<td><b>SLEEP.PAS</b></td>
 			<td>Cette commande permet d'attendre le nombre de secondes spécifiés. Cette commande est un équivalent de Coreutils.</td>
