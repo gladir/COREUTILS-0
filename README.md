@@ -50,6 +50,10 @@ Voici la liste des différents fichiers proposés dans COREUTILS-0 :
 			<td><b>LS.PAS</b></td>
 			<td>Cette commande permet d'afficher les fichiers d'un répertoire. Cette commande est équivalent de Coreutils.</td>
 		</tr>
+		<tr>
+			<td><b>MKTEMP.PAS</b></td>
+			<td>Cette commande permet de créer un fichier ou un répertoire temporaire.</td>
+		</tr>
 	<tr>
 			<td><b>NL.PAS</b></td>
 			<td>Cette commande permet d'afficher du texte avec des numéros de ligne. </td>
