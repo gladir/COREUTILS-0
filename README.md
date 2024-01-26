@@ -63,6 +63,10 @@ Voici la liste des différents fichiers proposés dans COREUTILS-0 :
 			<td>Cette commande permet d'afficher le contenu d'un fichier selon un format spécifique. Cette commande est un équivalent de Coreutils.</td>
 		</tr>
 		<tr>
+			<td><b>PRINTF.PAS</b></td>
+			<td>Cette commande permet d'afficher un message avec le format spécifié.</td>
+		</tr>
+		<tr>
 			<td><b>PWD.PAS</b></td>
 			<td>Cette commande permet d'afficher le chemin du répertoire courant. Cette commande est un équivalent de Coreutils.</td>
 		</tr>
