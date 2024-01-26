@@ -90,6 +90,10 @@ Voici la liste des différents fichiers proposés dans COREUTILS-0 :
 			<td><b>TOUCH.PAS</b></td>
 			<td>Cette commande permet de changer la date et l'heure d'un fichier. Cette commande est un équivalent de Coreutils.</td>
     </tr>
+		<tr>
+			<td><b>UNEXPAND.PAS</b></td>
+			<td>Cette commande permet de convertir des espaces en tabulations.</td>
+		</tr>		
 	<tr>
 			<td><b>UNLINK.PAS</b></td>
 			<td>Cette commande permet de supprimer un lien symbolique.</td>
