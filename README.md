@@ -47,6 +47,10 @@ Voici la liste des différents fichiers proposés dans COREUTILS-0 :
 			<td>Cette commande permet d'afficher les fichiers contenu dans un répertoire.</td>
 		</tr>
 		<tr>
+			<td><b>EXPAND.PAS</b></td>
+			<td>Cette commande permet de convertir des tabulations en espaces.</td>
+		</tr>
+		<tr>
 			<td><b>HEAD.PAS</b></td>
 			<td>Cette commande permet d'afficher le début d'un fichier texte. Cette commande est un équivalent de Coreutils.</td>
 		</tr>
