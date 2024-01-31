@@ -64,7 +64,7 @@ Voici la liste des différents fichiers proposés dans COREUTILS-0 :
 		</tr>
 		<tr>
 			<td><b>FOLD.PAS</b></td>
-			<td>Cette commande permet d''envelopper les lignes d'entrée pour s'adapter à la largeur spécifié.</td>
+			<td>Cette commande permet d'envelopper les lignes d'entrée pour s'adapter à la largeur spécifié.</td>
 		</tr>		
 		<tr>
 			<td><b>HEAD.PAS</b></td>
