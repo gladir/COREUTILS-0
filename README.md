@@ -35,9 +35,17 @@ Voici la liste des différents fichiers proposés dans COREUTILS-0 :
 			<td>Cette commande permet de copier un fichier. </td>
 		</tr>
 		<tr>
+			<td><b>CSPLIT.PAS</b></td>
+			<td>Cette commande permet de séparer un fichier en plusieurs sections déterminé par des lignes de contextes.</td>
+		</tr>		
+		<tr>
 			<td><b>CUT.PAS</b></td>
 			<td>Cette commande permet de supprimer des sections de chaque ligne des fichiers.</td>
 		</tr>
+		<tr>
+			<td><b>DD.PAS</b></td>
+			<td>Cette commande permet de convertir un fichier tant qu'il se copie.</td>
+		</tr>		
 	 	<tr>
 			<td><b>DF.PAS</b></td>
 			<td>Cette commande permet d'afficher l'espace libre sur le système de fichiers. </td>
@@ -50,6 +58,14 @@ Voici la liste des différents fichiers proposés dans COREUTILS-0 :
 			<td><b>EXPAND.PAS</b></td>
 			<td>Cette commande permet de convertir des tabulations en espaces.</td>
 		</tr>
+		<tr>
+			<td><b>FMT.PAS</b></td>
+			<td>Cette commande permet de reformater le texte de paragraphe.</td>
+		</tr>
+		<tr>
+			<td><b>FOLD.PAS</b></td>
+			<td>Cette commande permet d''envelopper les lignes d'entrée pour s'adapter à la largeur spécifié.</td>
+		</tr>		
 		<tr>
 			<td><b>HEAD.PAS</b></td>
 			<td>Cette commande permet d'afficher le début d'un fichier texte. Cette commande est un équivalent de Coreutils.</td>
