@@ -130,6 +130,10 @@ Voici la liste des différents fichiers proposés dans COREUTILS-0 :
 			<td><b>TOUCH.PAS</b></td>
 			<td>Cette commande permet de changer la date et l'heure d'un fichier. Cette commande est un équivalent de Coreutils.</td>
     </tr>
+	<tr>
+			<td><b>TR.PAS</b></td>
+			<td>Cette commande permet d'envoyer le contenu de l'entrée standard vers la sortie standard en effectuant le traitement spécifié.</td>
+		</tr>
 		<tr>
 			<td><b>UNEXPAND.PAS</b></td>
 			<td>Cette commande permet de convertir des espaces en tabulations.</td>
