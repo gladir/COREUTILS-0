@@ -59,6 +59,10 @@ Voici la liste des différents fichiers proposés dans COREUTILS-0 :
 			<td>Cette commande permet de convertir des tabulations en espaces.</td>
 		</tr>
 		<tr>
+			<td><b>FACTOR.PAS</b></td>
+			<td>Cette commande permet de calculer le facteur d'un nombre. Cette commande est inspiré de la commande factor de UNIX.</td>
+		</tr>
+		<tr>
 			<td><b>FMT.PAS</b></td>
 			<td>Cette commande permet de reformater le texte de paragraphe.</td>
 		</tr>
