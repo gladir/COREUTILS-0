@@ -55,6 +55,10 @@ Voici la liste des différents fichiers proposés dans COREUTILS-0 :
 			<td>Cette commande permet d'afficher les fichiers contenu dans un répertoire.</td>
 		</tr>
 		<tr>
+			<td><b>DU.PAS</b></td>
+			<td>Cette commande permet de comptabilisé l'espace occupé par un répertoire et ses enfants.</td>
+		</tr>
+		<tr>
 			<td><b>EXPAND.PAS</b></td>
 			<td>Cette commande permet de convertir des tabulations en espaces.</td>
 		</tr>
