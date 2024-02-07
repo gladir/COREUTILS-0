@@ -83,6 +83,10 @@ Voici la liste des différents fichiers proposés dans COREUTILS-0 :
 			<td>Cette commande permet d'afficher le début d'un fichier texte. Cette commande est un équivalent de Coreutils.</td>
 		</tr>
 		<tr>
+			<td><b>ID.PAS</b></td>
+			<td>Cette commande permet d'afficher les informations d'utilisateur ou de groupe pour l'utilisateur spécifié ou (ou quand il est omis) pour l'utilisateur courant.</td>
+		</tr>
+		<tr>
 			<td><b>LS.PAS</b></td>
 			<td>Cette commande permet d'afficher les fichiers d'un répertoire. Cette commande est équivalent de Coreutils.</td>
 		</tr>
