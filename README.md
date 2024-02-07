@@ -75,6 +75,10 @@ Voici la liste des différents fichiers proposés dans COREUTILS-0 :
 			<td>Cette commande permet d'envelopper les lignes d'entrée pour s'adapter à la largeur spécifié.</td>
 		</tr>		
 		<tr>
+			<td><b>GROUPS.PAS</b></td>
+			<td>Cette commande permet d'afficher les groupes d'un utilisateur.</td>
+		</tr>	
+		<tr>
 			<td><b>HEAD.PAS</b></td>
 			<td>Cette commande permet d'afficher le début d'un fichier texte. Cette commande est un équivalent de Coreutils.</td>
 		</tr>
